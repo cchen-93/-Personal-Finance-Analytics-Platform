@@ -63,6 +63,8 @@ Allows users to adjust monthly living expenses, withdrawal rate, target asset al
 
 ## Architecture
 
+![Personal Finance Analytics Platform Architecture](架構圖.png)
+
 This project has two deliberately separated implementations.
 
 ### 1. Public Portfolio Demo
