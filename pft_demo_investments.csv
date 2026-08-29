@@ -1,0 +1,2 @@
+﻿date,symbol,transaction_type,shares,price,transaction_amount,fees_tax,dividend_interest,note
+2027-01-15,DEMO ETF,買入,100.0,50.0,5000.0,20.0,0.0,作品集模擬交易
